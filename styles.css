@@ -1,23 +1,24 @@
 body {
-    color: antiquewhite;
-    background: black;
+    color: white;
+    background: rgb(10, 128, 45);
     margin: 0px;
-    font-family: "Edu AU VIC WA NT Guides", cursive;
+    font-family: "Chakra Petch", sans-serif;
     margin-bottom: 100px;
-}    
+}
 
 header {
-    border-bottom: solid 2px purple;
+    border-bottom: solid 2px rgb(255, 255, 255);
     padding: 20px;
     font-size: 32px;
-    color: purple;
+    color: rgb(255, 255, 255);
 }
 
 .chamada {
-   background: pink; 
-   padding-bottom: 80px;
-   display: flex; 
-   justify-content: center;
+    background: rgb(110, 51, 172);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
 }
 
 .chamada-texto {
@@ -25,13 +26,10 @@ header {
 }
 
 h1 {
-    font-size:40px;
+    font-size: 40px;
 }
 
 
-p {
-    font-size: 20px;
-}
 p {
     font-size: 20px;
 }
@@ -44,7 +42,7 @@ p {
 
 .categoria {
     padding-left: 20px;
-    padding-right:20px;
+    padding-right: 20px;
     margin-top: 50px;
 }
 
@@ -54,18 +52,13 @@ p {
 }
 
 .categoria-videos img:hover {
-    opacity : 1.0;
-    border: 3px solid rgb(66, 0, 66);
+    opacity: 1.0;
+    border: 3px solid rgb(255, 255, 255);
 }
 
 .categoria h2 {
-    color: rgb(0, 0, 0)
+    color: rgb(255, 255, 255);
 }
-
-
-
-
-
 
 
 
